@@ -27,5 +27,7 @@ func main() {
 ## Sponsors
 
 <p align="center">
-[https://nolocation.io/](https://nolocation.io/assets/img/logo.png)
+  <a target="_blank" href="https://nolocation.io/">
+    <img alt="sponsors" src="https://nolocation.io/assets/img/logo.png">
+  </a>
 </p>
